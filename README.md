@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Gupta</h1>
 <h3 align="center">A student with excellent coding skills and a knack for technology. Passionate about problem solving using the Web, A.I & M.L.</h3>
 
-<img align = "right" alt="coding" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align = "right" alt="coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitg2801&label=Profile%20views&color=0e75b6&style=flat" alt="harshitg2801" /> </p>
 
