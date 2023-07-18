@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitg2801" alt="harshitg2801" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [Customer Churn prediction](https://github.com/harshitg2801/customer_churn)
 
 - 🌱 I’m currently learning **Python , M.L , A,I**
@@ -23,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshit gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit gupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshit-gupta-a568381a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-gupta-a568381a9" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19220406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19220406" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshitg141975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshitg141975" height="30" width="40" /></a>
 </p>
@@ -36,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitg2801&show_icons=true&locale=en" alt="harshitg2801" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitg2801&" alt="harshitg2801" /></p>
-
